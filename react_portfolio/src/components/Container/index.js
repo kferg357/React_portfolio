@@ -1,7 +1,10 @@
-import React from 'react';
-	import ReactDOM from 'react-dom';
-	import App from './App';
-	import 'bootstrap/dist/css/bootstrap.min.css';
-	
+import React from "react";
+import "./style.css";
 
-	ReactDOM.render(<App />, document.getElementById('root'));
+
+function Container(props) {
+  return <div className="Container">{props.children}</div>;
+}
+
+
+export default Container;
