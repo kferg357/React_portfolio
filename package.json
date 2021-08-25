@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "bootstrap": "^5.1.0"
+    "react-external-link": "^1.2.2"
   }
 }

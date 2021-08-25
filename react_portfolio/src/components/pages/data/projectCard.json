@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "cardname": "Fitness Tracker",
+        "image": "https://user-images.githubusercontent.com/79925523/128615145-c3019eb1-22a3-470a-a4e7-bee7dafe9f98.PNG",
+        "livelink": "https://kferg357.github.io/Workout-Tracker/",
+        "codelink": "https://github.com/kferg357/Workout-Tracker"
+    },
+    {
+        "id": 2,
+        "cardname": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/79925523/130669274-8b704503-c3f0-4c79-8f60-34d3637a23a7.PNG",
+        "livelink": "https://kferg357.github.io/Weather-Planner/",
+        "codelink": "https://github.com/kferg357/Weather-Planner"
+    },
+    {
+        "id": 3,
+        "cardname": "Note Taker",
+        "image": "https://user-images.githubusercontent.com/79925523/130669617-cc910c1f-d794-46b6-9336-b520c3145daf.PNG",
+        "livelink": "https://note-taker-kferg357.herokuapp.com/",
+        "codelink": "https://github.com/kferg357/note-taker"
+    },
+    {
+        "id": 4,
+        "cardname": "JS Quiz",
+        "image": "https://user-images.githubusercontent.com/79925523/129284813-9b943acb-a170-4c08-984f-db8373734d4e.PNG",
+        "livelink": "https://kferg357.github.io/JS-Quiz/",
+        "codelink": "https://github.com/kferg357/JS-Quiz"
+    },
+    {
+        "id": 5,
+        "cardname": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/79925523/130670149-37a83e1d-fe45-41b2-a46b-65cd4d000401.PNG",
+        "livelink": "https://kferg357.github.io/Password-Generator/",
+        "codelink": "https://github.com/kferg357/Password-Generator"
+    },
+    {
+        "id": 6,
+        "cardname": "README Generator",
+        "image": "https://drive.google.com/file/d/1cIDl5FVYphW60M1F2ngGxjfsAf9Yp2-i/view?usp=sharing",
+        "livelink": "https://kferg357.github.io/Password-Generator/",
+        "codelink": "https://github.com/kferg357/Password-Generator"
+    }
+]
