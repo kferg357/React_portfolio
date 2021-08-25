@@ -1,10 +1,10 @@
 
 import React from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavTabs from "./components/NavTabs";
+import NavTabs from "./components/NavTab";
 import Home from "./components/pages/Home";
 import Portfolio from "./components/pages/Portfolio";
-import Projects from "./components/pages/Projects";
+import Projects from "./components/pages/Project";
 import Contact from "./components/pages/Contact";
 import HeroImage from "./components/HeroImage";
 import FooterInfo from "./components/FooterInfo"
