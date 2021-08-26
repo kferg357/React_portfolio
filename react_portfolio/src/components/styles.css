@@ -42,7 +42,11 @@ a {
 
 
 .hero {
-    width: 100%;
+    width: 2000px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    height: 200px;
 }
 
 

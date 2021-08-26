@@ -1,7 +1,7 @@
 //header will go here
 import "./styles.css";
 import React from "react";
-import Hero from "./images/coding_pic.jpg"
+import Hero from "./images/programming-coding.jpg"
 
 
 function HeroImage() {
