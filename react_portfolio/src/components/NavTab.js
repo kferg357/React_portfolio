@@ -7,7 +7,7 @@ import React from "react";
 	
 
 	  return (
-	    <ul className="nav navbar-dark bg-dark">
+	    <ul className="nav navbar-dark bg-dark mr-auto" >
 	      <li className="nav-item">
 	        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
 	          Home

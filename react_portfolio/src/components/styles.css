@@ -24,7 +24,11 @@ a {
 } 
 
 .moreLeft {
-    padding-left:2%;
+    max-width: 70%;
+}
+
+.social {
+    display: inline;
 }
 
 
@@ -70,6 +74,10 @@ a {
     margin:6%;
     border: thin solid gray;
 }
+
+.formInput {
+    display: block
+  }
 
 
 @media only screen and (max-width: 600px) {
