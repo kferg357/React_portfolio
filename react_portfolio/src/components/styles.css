@@ -37,7 +37,7 @@ a {
     vertical-align: top;
     width: 10%;
     border: thin solid gray;
-    border-radius: 25px;
+    border-radius: 25px; 
 }
 
 
@@ -79,6 +79,14 @@ a {
     display: block
   }
 
+  .nav-item {
+      max-width: 90px;
+      font-size: small;
+  }
+
+  .nav {
+      justify-content: flex-end;
+  }
 
 @media only screen and (max-width: 600px) {
     .projectImg {

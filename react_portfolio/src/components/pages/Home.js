@@ -6,7 +6,7 @@ import React from "react";
 	function Home() {
 	  return (
 	    <div className="jumbotron jumbotron-fluid"> 
-	      <div className="moreLeft"><img className="profile" src={facepic.jpg} alt="facepic" />
+	      <div className="moreLeft"><img className="profile" src={facepic} alt="facepic" />
 	      <p className="headerText">
 	     <h1>Hello</h1>  
 	      My name is Kenneth A. Ferguson <br/>
