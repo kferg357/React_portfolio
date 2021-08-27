@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React_portfolio/static/css/main.0d29f260.chunk.css",
+    "main.js": "/React_portfolio/static/js/main.de448a49.chunk.js",
+    "main.js.map": "/React_portfolio/static/js/main.de448a49.chunk.js.map",
+    "runtime-main.js": "/React_portfolio/static/js/runtime-main.89ba07bd.js",
+    "runtime-main.js.map": "/React_portfolio/static/js/runtime-main.89ba07bd.js.map",
+    "static/css/2.818011ed.chunk.css": "/React_portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.7b8e31fc.chunk.js": "/React_portfolio/static/js/2.7b8e31fc.chunk.js",
+    "static/js/2.7b8e31fc.chunk.js.map": "/React_portfolio/static/js/2.7b8e31fc.chunk.js.map",
+    "index.html": "/React_portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/React_portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0d29f260.chunk.css.map": "/React_portfolio/static/css/main.0d29f260.chunk.css.map",
+    "static/js/2.7b8e31fc.chunk.js.LICENSE.txt": "/React_portfolio/static/js/2.7b8e31fc.chunk.js.LICENSE.txt",
+    "static/media/Ken_Resume_new_new.7c62487e.pdf": "/React_portfolio/static/media/Ken_Resume_new_new.7c62487e.pdf",
+    "static/media/email_icon.3ac06246.jpg": "/React_portfolio/static/media/email_icon.3ac06246.jpg",
+    "static/media/facepic.baa1bcbe.jpg": "/React_portfolio/static/media/facepic.baa1bcbe.jpg",
+    "static/media/github_icon.553c6615.png": "/React_portfolio/static/media/github_icon.553c6615.png",
+    "static/media/pdf_icon.f5a298ab.jpg": "/React_portfolio/static/media/pdf_icon.f5a298ab.jpg",
+    "static/media/programming-coding.b8690f2c.jpg": "/React_portfolio/static/media/programming-coding.b8690f2c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89ba07bd.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7b8e31fc.chunk.js",
+    "static/css/main.0d29f260.chunk.css",
+    "static/js/main.de448a49.chunk.js"
+  ]
+}
